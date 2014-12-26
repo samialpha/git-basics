@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 One two
+=======
+One two three
+>>>>>>> B
